@@ -1,0 +1,12 @@
+5
+Property
+Service 500
+Lucky 900
+Property
+Lucky 400
+5
+Rakib Careful
+Muntasir Tactical
+Nazifa Greedy
+Efaz Tactical
+Awrko Greedy
